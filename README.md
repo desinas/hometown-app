@@ -1,4 +1,4 @@
-# Buildind the Home Town app  #
+# Building the Home Town app  #
 
 The Brighton Times site with two coloumns: text and images,
 also the weather and sports scores. When resize the page the content is no longer fitting the browser.
@@ -15,6 +15,12 @@ need to make it take the full viewport. To do that, run through the CSS looking 
 with fixed widths set smaller than 100%, then simply made them 100%. So an element take as much space as it can, 
 which means that if you've got a container it'll take up the viewport.
 As about touch targets adding some padding:1.5em to all. After all changes manual user experience testing must be done.
+
+###more###
+
+Find elements that don't take all the width of the viewport,
+and modify CSS width: 100%.
+Touch targets made easy to hit by give them ( 48x48 )px. Give a width:1.5em to them and check it out at the DevTools element show its size, so to have at least the proper pixels.
 
 * Quick summary
 * Version

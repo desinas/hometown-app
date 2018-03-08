@@ -22,6 +22,8 @@ Find elements that don't take all the width of the viewport,
 and modify CSS width: 100%.
 Touch targets made easy to hit by give them ( 48x48 )px. Give a width:1.5em to them and check it out at the DevTools element show its size, so to have at least the proper pixels.
 
+**The repo cloned from https://desinas@bitbucket.org/desinas/start-small_udacity-fewd.git at 2018/03/08**
+
 * Quick summary
 * Version
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
